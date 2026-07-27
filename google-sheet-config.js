@@ -11,7 +11,7 @@
 // Also, you must Share the sheet so that anyone with a link can access it
 //     Share button at top right of sheet -> General Access -> Anyone with the link -> Viewer
 // prettier-ignore
-export const googleSheetURL = "https://docs.google.com/spreadsheets/d/17sHlHcOilG9UmRju8YDGx4bRMIDpQ5Bpfzc0QI-Np6c";
+export const googleSheetURL = "https://docs.google.com/spreadsheets/d/1_YPJ4xnS71BtOt75CBCXAOuUgMwzzXnZ4zD1vQNppcs";
 
 // An API Key is required to read a google sheet from an application. The one below is for this version
 // of the application, you will need to generate your own key if you plan to publish this scrolly story on
@@ -25,7 +25,7 @@ export const googleSheetURL = "https://docs.google.com/spreadsheets/d/17sHlHcOil
 // 6. Click on Create Credentials at the top menu bar then API Key
 // 7. Restrict the key under API restrictions and restrict to Google Sheets API
 // 7. Copy the key and replace the one below
-export const googleApiKey = "AIzaSyDY8bg45rGLpL4UsIKsDWh0bVec6wueFHs";
+export const googleApiKey = "AIzaSyCyowIpnvRPffqZxE8iAKihyuMXLQka6Lc";
 
 export function extractIDFromGoogleSheetURL() {
   try {
